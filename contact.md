@@ -8,7 +8,7 @@ title: Contact Charles Gabouleaud
   <div class="contactContent">
     <p class="intro">Pour réagir au contenu du blog, ou me contacter directement, n'hésitez pas à m'envoyer un email.</p>
     <p>Vous souhaiter prendre contact avec moi? Ou tout simplement me faire part d'une remarque, ou d'une suggestion? Je tenterais de vous répondre le plus précisément et le plus rapidement possible.</p>
-	<p>Vous pouvez utilisez le formulaire ci-contre, ou m'envoyer directement un email à <charles.gabouleaud@gmail.com></p>
+	<p>Vous pouvez utilisez le formulaire ci-contre, ou m'envoyer directement <a href="mailto:charles.gabouleaud@gmail.com">un email</a>.</p>
   </div>
   <form action="http://formspree.io/charles.gabouleaud@gmail.com" method="POST">
     <label for="name">Nom</label>    
