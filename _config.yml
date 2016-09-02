@@ -12,9 +12,9 @@ gems: [jekyll-paginate]
 paginate: 3
 
 navigation:
- - title: Home
+ - title: Accueil
    url: /index.html
- - title: About
+ - title: A propos
    url: /about
  - title: Contact
    url: /contact
