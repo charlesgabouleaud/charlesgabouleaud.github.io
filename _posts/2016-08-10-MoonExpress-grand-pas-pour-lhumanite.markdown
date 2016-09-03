@@ -3,6 +3,7 @@ layout : post
 title : "MoonExpress : un grand pas pour l'humanité?"
 date : 2016-08-10
 image : MoonExpress/full-moon.jpeg
+comments : true
 ---
 
 <p class="intro"><span class="dropcap">E</span>ntre ceux qui jouaient à Pokémon Go et ceux qui attendaient impatiemment les premières épreuves des JO à la télévision, certains sont peut-être passés à côté d’une information de première importance en matière d’exploration spatiale. Mais cela soulève aussi quelques questions primordiales au niveau de la politique liée à l’espace.</p>
@@ -50,4 +51,28 @@ Aucun consensus international n’existe concernant les possibilités économiqu
 	<figcaption>Photo de l'empreinte d'un des premiers pas sur la Lune. Trace laissée par Buzz Aldrin, le 20 Juillet 1969. crédit : NASA</figcaption>
 </figure>
 
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+     */
+    /*
+    var disqus_config = function () {
+        this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+        this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+        var d = document, s = d.createElement('script');
+        
+        s.src = '//charlesgabouleaud.disqus.com/embed.js';  // IMPORTANT: Replace EXAMPLE with your forum shortname!
+        
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+{% endif %}
 
