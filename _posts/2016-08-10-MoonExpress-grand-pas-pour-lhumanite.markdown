@@ -64,8 +64,6 @@ var disqus_config = function () {
     this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
 };
 */
-var disqus_config = function () {
-    this.page.url = http://www.charlesgabouleaud.fr/blog/MoonExpress-grand-pas-pour-lhumanite/;  // Replace PAGE_URL with your page's canonical URL variable
 (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
     s.src = '//charlesgabouleaud-fr.disqus.com/embed.js';
