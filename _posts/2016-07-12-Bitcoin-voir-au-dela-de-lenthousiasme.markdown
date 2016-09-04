@@ -2,7 +2,7 @@
 layout : post
 title : "Bitcoin : voir au delà de l'enthousiasme"
 date : 2016-07-12
-image : Bitcoin/Bitcoin.jpg
+image : Bitcoin/Bitcoins.jpg
 comments : true
 ---
 
