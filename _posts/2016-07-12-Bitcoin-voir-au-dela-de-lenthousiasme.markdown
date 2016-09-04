@@ -34,6 +34,8 @@ S’il ne faut pas voir Bitcoin comme le nouveau Saint Graal du XXIème siècle,
 
 <em>Cet article a été inspiré par l'intervention de Rémi Géraud, chercheur à l'Ingenico's Advanced Research team et doctorant à l'ENS, lors de la conférence "Blockchain : the Next Big Thing" le 6 juin 2016.</em>
 
+Image de couverture : crédit : <a href="https://visualhunt.com/f/photo/10307490244/9960686147/">antanacoins</a>
+
 {% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
