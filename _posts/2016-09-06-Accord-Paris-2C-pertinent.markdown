@@ -6,7 +6,7 @@ image : AccordsParis/iceberg.jpg
 comments : true
 ---
 
-<p class="intro"style="text-align: justify;"><span class="dropcap">L</span>a COP21 en Décembre 2015 a abouti à l’accord de Paris, dont un des objectifs est de maintenir le réchauffement climatique sous la barre des 2°C. Cependant, si l’on voit souvent cet objectif brandi comme le fer de lance de la lutte contre le changement climatique, on explique rarement ce à quoi il correspond réellement. Et au-delà de ce qu’il représente, il est important de s’interroger sur sa pertinence.</p>
+<p class="intro" style="text-align: justify;"><span class="dropcap">L</span>a COP21 en Décembre 2015 a abouti à l’accord de Paris, dont un des objectifs est de maintenir le réchauffement climatique sous la barre des 2°C. Cependant, si l’on voit souvent cet objectif brandi comme le fer de lance de la lutte contre le changement climatique, on explique rarement ce à quoi il correspond réellement. Et au-delà de ce qu’il représente, il est important de s’interroger sur sa pertinence.</p>
 
 ### Un objectif expliqué à moitié
 
