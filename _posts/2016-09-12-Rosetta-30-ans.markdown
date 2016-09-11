@@ -1,0 +1,76 @@
+---
+layout : post
+title : "Rosetta : le terme d'un projet vieux de 30 ans"
+date : 2016-09-12
+image : Rosetta/Philae.jpg
+comments : true
+---
+
+<p class="intro" style="text-align: justify;"><span class="dropcap">F</span>in Septembre, la sonde Rosetta ira rejoindre son atterrisseur Philae sur la comète Tchouri. Cela marquera la fin de la mission de l’agence spatiale européenne (ESA). Les péripéties de cette mission on été relayées, depuis 2014. Les résultats de la mission ont permis une bien meilleure compréhension des corps célestes.</p>
+
+### La concrétisation d’un projet au cheminement difficile
+
+<p style="text-align: justify;">Il est relativement difficile de percevoir le déroulement complet des missions spatiales. En dehors du monde aérospatial, on entend généralement parler des lancements de fusées, avant de voir les images renvoyées par les sondes. Mais les projets ne se limitent pas à ces événements. Lorsque les fusées sont envoyées dans l’espace, un important travail a déjà été réalisé. Puis, dans le cas de sondes spatiales, il faut savoir faire preuve de patience en attendant la phase d’approche de l’objectif. Dans le cas de satellites terrestres, le temps d’attente est bien moins long. Dans le cas de la mission <em>Rosetta</em>, les prémices du projets remontent aux années 1980. Initialement, le projet devait être mené conjointement par la NASA et l’ESA, et visait à atterrir sur une comète, prélever un échantillon, et le ramener sur Terre. Les deux agences spatiales discutent du projet de 1986 à 1992, date à laquelle la NASA quitte le projet. L’ESA revoit donc les objectifs de la mission, mais n’abandonne pas le projet <em>Rosetta</em>.</p>
+
+<p style="text-align: justify;">La collecte d’échantillons dans le but de les ramener sur Terre est abandonnée. La sonde devait emporter deux atterrisseurs, mais pour des raisons budgétaires, l’un des deux est abandonné. Petit à petit, les contours de précisent, et la mission prend forme. La sonde devra donc emporter un seul atterrisseur, baptisé <em>Philae</em>. Les deux noms font références à la Pierre de Rosette, découverte par Champollion, et permettant de déchiffrer les hiéroglyphes, et à l’obélisque Philae, complétant le déchiffrage de Champollion. Le ton est donné : la mission a pour but de percer les secrets des corps célestes. Le développement de la sonde et de l’atterrisseur prennent du temps, plusieurs comètes sont envisagées, et c’est finalement la comète Wirtanen qui est retenue comme objectif. Là encore, tout ne se déroule pas comme prévu : suite à un incident avec Ariane 5 en 2002, les lancements sont reportés, empêchant de pouvoir atteindre la comète. Un nouvel objectif, plus complexe mais néanmoins atteignable, est choisi : la comète 67P/Tchourioumov-Guerassimenko, souvent appelée <em>Tchouri</em>. Le lancement de la fusée a lieu le 2 Mars 2004.</p>
+
+<figure>
+	<img src="{{ '/assets/img/Rosetta/Mars.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Mars photographiée par la sonde Rosetta lors de son passage à proximité de la planète rouge, en Février  2007 - crédit&#8239;: <a href="https://visualhunt.com/f/photo/12303441496/2fb7385b1a/">2di7 & titanio44</a></figcaption>
+</figure>
+
+### Un objectif particulièrement ambitieux
+
+<p style="text-align: justify;">Plusieurs missions spatiales avaient pour objectif l’étude des comètes. On peut par exemple citer <em>Deep Impact</em>, au nom particulièrement bien choisi puisque la sonde a largué un impacteur sur la comète dans le but de créer un nuage de glaces et de poussières, analysable par la sonde. Mais Rosetta va bien plus loin puisque l’objectif est de se mettre en orbite autour d’une comète. On retrouve donc les problématiques habituelles des missions longues (source d’énergie, consommation d’énergie, vieillissement des équipements, …) ainsi que des problématiques bien particulières. Cela implique par exemple de synchroniser la vitesse de la sonde avec la comète, de rester à bonne distance de la comète pour ne pas s’éloigner ni s’écraser : une véritable prouesse technique.</p>
+
+<p style="text-align: justify;">La seconde partie de la mission était encore plus complexe : poser un module sur la comète. On pourrait se demander en quoi il est plus complexe de poser un module sur une comète lorsqu’on a pu le faire sur la Lune il y a plus de 40 ans. Il est pratiquement impossible de prévoir le site d’atterrissage à l’avance : cartographier la surface d’une comète est inenvisageable depuis la Terre, et c’est donc à la sonde en orbite que revient cette tâche. Cela a une conséquence directe : le module ne peut pas être développé pour se poser dans des conditions connues. Et le voyage jusqu’à la comète est très long : les systèmes d’atterrissage doivent donc être immédiatement fonctionnels après une dizaine d’années de repos.</p>
+
+<p style="text-align: justify;">Si la mise en orbite de <em>Rosetta</em> s’effectue sans inconvénient, il n’en va pas de même pour le petit module <em>Philae</em>. La gravité sur <em>Tchouri</em> est bien plus faible que sur Terre, et le module, d’une masse de 100kg, a un comportement sur la comète équivalent à celui d’une masse de 1g sur Terre. Les scientifiques ont donc mis en place plusieurs systèmes pour éviter que <em>Philae</em> ne rebondisse. Le module est équipé d’un propulseur dont l’évacuation est situé sur le dessus, pour plaquer l’atterrisseur au sol. Il est aussi équipé de harpons pour le fixer à la comète. Ces deux dispositifs ne fonctionnent pas, et <em>Philae</em> a rebondi une première fois à plus d’1km d’altitude, pour atterrir à nouveau 2h plus tard. Un second rebond a eu lieu, propulsant le module sous une falaise. Il faudra attendre pratiquement 2 ans avant que <em>Rosetta</em> ne détecte <em>Philae</em>.</p>
+
+<figure>
+	<img src="{{ '/assets/img/Rosetta/Philaefound.jpg' | prepend: site.baseurl }}" alt=""> 
+	<figcaption>Photo de Rosetta, ayant détecté la sonde Philae - crédit : <a href="http://www.esa.int/spaceinimages/Images/2016/09/Philae_found">ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA</a></figcaption>
+</figure>
+
+### Une mission aux nombreuses avancées scientifiques
+
+<p style="text-align: justify;">Le module <em>Philae</em>, de par son rebond, n’a pu remplir tous les objectifs initialement prévus. Il a malgré tout effectué une partie des mesures qu’il devait, et à pu en transmettre une partie à <em>Rosetta</em> durant des phases de réveil. Malgré sa position peu favorable, ses panneaux solaires ont reçus suffisamment d’énergie pour permettre de réveiller ponctuellement le module. En revanche, l’éloignement de la comète du soleil actuellement en cours a déclenché la fin de la mission, un futur réveil n’étant plus envisageable, le module commençant à vieillir. Les données recueillies par <em>Philae</em> et <em>Rosetta</em> ont permis aux scientifiques d’en savoir plus sur les corps célestes.</p>
+
+<p style="text-align: justify;">La mission a permis principalement d’en apprendre plus sur les comètes, ce qui semble assez logique. Les scientifiques ont pu étudier précisément la composition de la comète <em>Tchouri</em>, de son noyau mais aussi de sa queue. Ils se sont aussi intéresser aux modifications subies par la comète en fonction l’influence du soleil. Au delà de l’étude des comète, <em>Rosetta</em> a apporté une pierre à l’édifice de la théorie sur l’origine de l’eau sur Terre. En effet, une des théories longtemps envisagée était que l’eau terrestre était originaire des comètes. Cette théorie est de moins en moins plausible, l’eau des comètes étant beaucoup plus chargé en deutérium (un isotope naturel de l’hydrogène) que sur Terre. On envisage désormais que l’eau terrestre provienne des astéroïdes. Les résultats de <em>Rosetta</em> viennent appuyer cette théorie. Enfin, comme toute mission spatiale de cette envergure, les retombées techniques ont aussi été bénéfique à l’industrie aérospatiale.</p>
+
+<p style="text-align: justify;">En septembre 2016 prendra donc fin un projet qui a vu le jour il y a 30 ans. Après plusieurs années de définition des objectifs, de construction des éléments envoyés, et de préparation, le lancement de <em>Rosetta</em> et <em>Philae</em> a eu lieu il y a 12 ans. La sonde et son module auront donc passés 10 ans à voyager vers leur destination finale, qu’ils ont étudiée pendant 2 ans. Un projet ambitieux, rendu possible grâce au travail commun de plusieurs agences nationales de pays européens, de la NASA, et bien entendu de l’Agence Spatiale Européenne. </p>
+
+###### Sources
+* <a href="http://www.rosetta-cnes.fr/rosetta/">http://www.rosetta-cnes.fr/rosetta/</a>
+* <a href="http://www.esa.int/fre/ESA_in_your_country/France/Rosetta">http://www.esa.int/fre/ESA_in_your_country/France/Rosetta </a>
+* <a href="https://rosetta.cnes.fr/">https://rosetta.cnes.fr/</a>
+* Article Wikipédia très détaillé, et extrêmement intéressant, à lire pour aller plus loin  :<a hraf="https://fr.wikipedia.org/wiki/Rosetta_(sonde_spatiale)">https://fr.wikipedia.org/wiki/Rosetta_(sonde_spatiale)</a>
+* Crédit image de couverture : <a href=" https://visualhunt.com/f/photo/15307802908/881b6a1b82/">DLR_de</a>
+
+### Matt Taylor, un scientifique qui déchire
+
+<p style="text-align: justify;">On se souvient surtout de lui pour l’histoire du T-shirt qu’il portait lors de son passage à la télévision pour parler de l’atterrissage de <em>Philae</em>, mais cet homme est bien plus que ça. Tout d’abord, pour être affecté à ce genre de projet, il faut être plutôt bon dans son domaine. Mais il casse radicalement avec l’image que l’on se fait habituellement des scientifiques diplômé d’un doctorat l’Imperial College. Fan d’heavy-métal, il arbore sur ses avant-bras deux manchettes tatoués, et s’est fait tatouer <em>Philae</em> sur la jambe. Il s’agit selon moi du genre de personnes à même de changer l’image que l’on peut se faire de la science. Loin des blouses blanches, des teints blafards et des visages dépressifs que certains associent au domaine de la recherche, image passablement éloignée de la réalité, des personnalités comme Matt Taylor cassant radicalement avec ce cliché peuvent changer les choses. La recherche scientifique n’intéresse selon moi pas assez le grand public : un scientifique rockeur, jovial et bon vivant peut redorer le blason de la science, faire s’intéresser les gens aux découvertes scientifiques et, qui sait, soulever des vocations chez les plus jeunes !</p>
+
+{% if page.comments %}
+<div id="disqus_thread"></div>
+<script>
+
+/**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+/*
+var disqus_config = function () {
+    this.page.url = http://www.charlesgabouleaud.fr/blog/Rosetta-30-ans/;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//charlesgabouleaud-fr.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                    
+{% endif %}
