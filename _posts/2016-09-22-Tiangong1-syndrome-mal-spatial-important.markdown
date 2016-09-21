@@ -28,7 +28,7 @@ comments : true
 <p style="text-align: justify;">Le nombre important d’articles, dans les médias occidentaux, concernant cette information, peut faire froid dans le dos. En pratique, il est fort peu probable que cela ait une quelconque incidence. Compte tenu de la répartition des océans sur Terre, il y a en effet une forte probabilité pour que les débris y retombent. Et même en cas de chute sur la terre ferme, là encore il est plus probable que cela se produise dans une zone inhabitée. Enfin, le caractère incontrôlable de la descente ne rend pas complètement imprévisible le point de chute. Cela complique énormément la prédiction, certes, mais il sera malgré tout possible d’anticiper le point de chute, quelques heures ou quelques jours avant. De quoi laisser le temps de s’éloigner, et de ne pas risquer de se faire blesser par les débris. Et pour ceux qui resteraient sceptiques ou craintifs, il n’existe à ce jour qu’une seule personne décédée à cause d’une chute de météorite. Des débris spatiaux ont vraiment très peu de chance d’atteindre qui que ce soit.</p>
 
 <figure>
-	<img src="{{ '/assets/img/Tiangong-1/Spoutnik.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/Tiangong-1/spoutnik.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Réplique de Spoutnik-1, premier satellite artificiel, lancé par l'URSS en 1957</figcaption>
 </figure>
 
