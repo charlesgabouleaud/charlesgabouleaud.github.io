@@ -34,7 +34,7 @@ comments : true
 
 <figure>
 	<img src="{{ '/assets/img/JourneyToMars/Mars.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Photo de Mars. Crédit : <a href="images-assets.nasa.gov/image/PIA04591/PIA04591~orig.jpg">NASA/JPL/Malin Space Science Systems</a></figcaption>
+	<figcaption>Photo de Mars. Crédit : NASA/JPL/Malin Space Science Systems</figcaption>
 </figure>
 
 <p style="text-align: justify;">Enfin, la dernière étape, <em>Earth Independant</em>, a pour objectif final l’envoi d’une mission habitée vers Mars au début des années 2030. Cette étape commence dès aujourd’hui avec la préparation de rovers pour Mars. Le prochain devrait atterrir sur la planète rouge en 2020, et une mission est en préparation pour la fin de la prochaine décennie, avec un rover censé ramener des échantillons sur Terre. Cette étape est bien évidemment centrée sur Mars, et ambitionne de repousser les limites de l’exploration spatiale humaine.</p>
@@ -54,7 +54,7 @@ comments : true
 
 <figure>
 	<img src="{{ '/assets/img/JourneyToMars/Venus.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Photo de Vénus. Crédit : <a href="images-assets.nasa.gov/image/PIA00271/PIA00271~orig.jpg">NASA/JPL</a></figcaption>
+	<figcaption>Photo de Vénus. Crédit : NASA/JPL</figcaption>
 </figure>
 
 <p style="text-align: justify;">Les conditions de vie sont en effet plus clémentes sur Mars, même si cela reste inadapté pour l’homme, ou toute forme de vie telle que nous la connaissons. Beaucoup plus chaude, Vénus ne semble pas posséder d’eau à sa surface. Mars, au nom beaucoup plus hostile (nommée en référence au Dieu de la guerre romain), est en revanche plus clémente. A tel point qu’on a longtemps rêvé de découvrir une forme de vie à sa surface. Elle a alimenté de nombreux mythes d’extraterrestres et continue de fasciner bons nombres de passionnés d’espace. Et les astronautes ont tourné, depuis plusieurs décennies déjà, leur regard au-delà de la Lune, vers Mars et non vers Vénus. Une étape qui devrait être franchie d’ici 2040, si le programme de la NASA se déroule comme prévu. Mais cette date pourrait en réalité être beaucoup plus proche, si des projets comme celui d’Elon Musk voient le jour. Mais cela sera le sujet d’un futur article.</p>
