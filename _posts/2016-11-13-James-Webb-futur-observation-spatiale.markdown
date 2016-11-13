@@ -66,7 +66,7 @@ comments : true
 	<figcaption>L'équipe travaillant dans la salle blanche où est située le télescope Webb posent devant le miroir primaire, après l'assemblage des 18 hexagones qui le composent. Les miroirs en bérylium ont été couvert d'une fine couche d'or pour optimiser la réflexion de la lumière infrarouge. crédit : <a href="https://www.flickr.com/photos/nasawebbtelescope/26949499880/in/album-72157665597177823/">NASA/Chris Gunn</a></figcaption>
 </figure>
 
-###### Sources :
+#### Sources :
 * <a href="https://fr.wikipedia.org/wiki/Astronomie">https://fr.wikipedia.org/wiki/Astronomie</a>
 * <a href="https://www.le-systeme-solaire.net/aide-frise-chronologique.html">https://www.le-systeme-solaire.net/aide-frise-chronologique.html</a>
 * <a href="http://www.huffingtonpost.fr/2016/09/19/le-plus-grand-telescope-du-monde-est-chinois-et-espere-trouver/">http://www.huffingtonpost.fr/2016/09/19/le-plus-grand-telescope-du-monde-est-chinois-et-espere-trouver/</a>
@@ -77,7 +77,7 @@ comments : true
 * <a href="http://jwst.nasa.gov/index.html">http://jwst.nasa.gov/index.html</a>
 
 
-###### Pour aller plus loin
+#### Pour aller plus loin :
 * Une frise du système solaire, à l'échelle, qui permet de prendre un peu mieux consciende de l'immensité de notre Univers : <a href="https://www.le-systeme-solaire.net/systeme-solaire-a-l-echelle/">https://www.le-systeme-solaire.net/systeme-solaire-a-l-echelle/</a>
 * Vidéo de la chaîne Youtube e-penser sur le télescope Hubble : <a href="https://www.youtube.com/watch?v=kN03meGEtSo">https://www.youtube.com/watch?v=kN03meGEtSo</a>
 * Carte de la pollution lumineuse : <a href="http://www.avex-asso.org/dossiers/wordpress/?page_id=3273&lang=fr_FR">http://www.avex-asso.org/dossiers/wordpress/?page_id=3273&lang=fr_FR</a>

@@ -46,12 +46,12 @@ Cependant, les émissions de gaz à effet de serre n’ont cessé d’augmenté 
 	<figcaption>L'antartique vu du ciel. crédit : NASA</figcaption>
 </figure>
 
-###### Sources :
+#### Sources :
 * <a href="http://www.francetvinfo.fr/meteo/climat/cop21/cop21-les-principales-annonces-de-laurent-fabius-sur-le-projet-d-accord-final_1218669.html"> FranceTVInfo</a>
 * <a href="http://www.ipcc.ch/report/ar5/syr/)">IPCC. Climate Change 2014: Synthesis Report. Contribution of Working Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. Ed. by R.K. Pachauri Core Writing Team and L.A. Meyer. Geneva, Switzerland: IPCC, 2014. 151pp.</a>
 * <a href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0081648">J. Hansen, P. Kharecha, M. Sato, V. Masson-Delmotte, F. Ackerman, D. J. Beerling, P. J. Hearty, O. Hoegh-Guldberg, S.-L. Hsu, C. Parmesan, J. Rockstrom, E.- J. Rohling, J. Sachs, P. Smith, K. Ste#en, L. Van Susteren, K. von Schuckmann, and J. C. Zachos. \Assessing \Dangerous Climate Change": Required Reduction of Carbon Emissions to Protect Young People, Future Generations and Nature". In: PLoS ONE 8.12 (Dec. 3, 2013). doi: 10.1371/journal.pone.0081648.</a>
 
-###### Pour aller plus loin :
+#### Pour aller plus loin :
 * <a href="http://www.mikehulme.org/wp-content/uploads/2012/08/2012-Hulme-in-Edenhofer-Chp-12.pdf">"The 2°C target reconsidered" par Brigitte Knopf , Martin Kowarsch , Christian Flachsland and Ottmar Edenhofer</a>
 
 {% if page.comments %}

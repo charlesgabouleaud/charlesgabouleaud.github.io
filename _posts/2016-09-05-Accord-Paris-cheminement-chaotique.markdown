@@ -49,10 +49,10 @@ comments : true
 	<figcaption>Human Energy à la Tour Eiffel à Paris en marge de la COP21. crédit : <a href="https://visualhunt.com/f/photo/23464393442/c38a4d9cd6/">y.caradec</a></figcaption>
 </figure>
 
-###### Sources
+#### Sources
 * <a href="http://www.lefigaro.fr/sciences/2016/09/03/01008-20160903ARTFIG00053-cop21-la-chine-et-les-etats-unis-ratifient-l-accord-de-paris-sur-le-climat.php">http://www.lefigaro.fr/sciences/2016/09/03/01008-20160903ARTFIG00053-cop21-la-chine-et-les-etats-unis-ratifient-l-accord-de-paris-sur-le-climat.php</a>
 
-###### Pour aller plus loin
+#### Pour aller plus loin
 * Histoire de la découverte de l’effet de serre et prise de conscience internationale des conséquences de l’action humaine (en anglais) : <a href="https://www.aip.org/history/climate/co2.htm">https://www.aip.org/history/climate/co2.htm</a>
 
 

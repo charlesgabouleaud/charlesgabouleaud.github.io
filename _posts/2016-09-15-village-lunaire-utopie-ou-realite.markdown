@@ -50,7 +50,7 @@ comments : true
 	<figcaption>Vue d'artiste du village lunaire imaginé par l'ESA - crédit : <a href="http://www.esa.int/spaceinimages/Images/2013/01/Multi-dome_base_being_constructed">ESA/Foster + Partners</a></figcaption>
 </figure>
 
-###### Sources
+#### Sources
 * <a href="http://www.space.com/32695-moon-colony-european-space-agency.html">http://www.space.com/32695-moon-colony-european-space-agency.html</a>
 * <a href="http://www.sciencealert.com/europe-plans-to-build-a-moon-village-by-2030-space-agency-announces">http://www.sciencealert.com/europe-plans-to-build-a-moon-village-by-2030-space-agency-announces</a>
 * <a href="http://www.bbc.com/future/story/20150712-should-we-build-a-village-on-the-moon">http://www.bbc.com/future/story/20150712-should-we-build-a-village-on-the-moon</a>
@@ -60,7 +60,7 @@ comments : true
 
 <p> Vidéo du TEDxTalk de Claudie Haigneré : <a href="https://www.youtube.com/watch?v=a73js0xfCXo">https://www.youtube.com/watch?v=a73js0xfCXo</a></p>
 
-##### Pour aller plus loin
+#### Pour aller plus loin
 * <a href="http://blogs.esa.int/janwoerner/2016/04/26/presentation-on-moon-village/">http://blogs.esa.int/janwoerner/2016/04/26/presentation-on-moon-village/</a>
 
 {% if page.comments %}

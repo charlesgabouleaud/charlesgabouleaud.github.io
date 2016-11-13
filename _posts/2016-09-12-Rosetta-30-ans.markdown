@@ -40,7 +40,7 @@ comments : true
 
 <p style="text-align: justify;">En septembre 2016 prendra donc fin un projet qui a vu le jour il y a 30 ans. Après plusieurs années de définition des objectifs, de construction des éléments envoyés, et de préparation, le lancement de <em>Rosetta</em> et <em>Philae</em> a eu lieu il y a 12 ans. La sonde et son module auront donc passés 10 ans à voyager vers leur destination finale, qu’ils ont étudiée pendant 2 ans. Un projet ambitieux, rendu possible grâce au travail commun de plusieurs agences nationales de pays européens, de la NASA, et bien entendu de l’Agence Spatiale Européenne. </p>
 
-###### Sources
+#### Sources
 * <a href="http://www.rosetta-cnes.fr/rosetta/">http://www.rosetta-cnes.fr/rosetta/</a>
 * <a href="http://www.esa.int/fre/ESA_in_your_country/France/Rosetta">http://www.esa.int/fre/ESA_in_your_country/France/Rosetta </a>
 * <a href="https://rosetta.cnes.fr/">https://rosetta.cnes.fr/</a>

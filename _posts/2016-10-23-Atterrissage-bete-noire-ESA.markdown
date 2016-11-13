@@ -55,7 +55,7 @@ comments : true
 
 <p style="text-align: justify;">Cette expérience ne remet pas en cause la suite du programme ExoMars, dont la prochaine étape est pour 2020. En revanche, elle démontre une nouvelle fois un élément essentiel : la phase d’atterrissage est particulièrement complexe et ne doit pas être négligée. Sur un sol inconnu et qui n’est pas prévu pour l’atterrissage de modules humains, les chances d’échec ne sont pas négligeables. Une conclusion qui pourrait potentiellement ralentir les projets visant à envoyer des hommes sur Mars. Echouer à poser un module de 300 kg dont la durée de vie prévue était d’une dizaine de jours est une chose, échouer à poser une navette comme celle qu’envisage Elon Musk, contenant une centaine de personnes, en est une autre. Il est donc nécessaire de bien considérer les risques, et de ne pas être téméraire, tout en restant ambitieux et désireux de repousser les limites de l’exploration. Un dilemme qu’il va falloir rapidement résoudre.</p>
 
-###### Sources :
+#### Sources :
 
 * <a href="https://fr.wikipedia.org/wiki/Schiaparelli_(engin_spatial)">https://fr.wikipedia.org/wiki/Schiaparelli_(engin_spatial)</a>
 * <a href="http://www.ladepeche.fr/article/2016/10/22/2444457-le-module-schiaparelli-s-est-finalement-ecrase-sur-mars.html">http://www.ladepeche.fr/article/2016/10/22/2444457-le-module-schiaparelli-s-est-finalement-ecrase-sur-mars.html</a>
