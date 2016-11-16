@@ -1,6 +1,6 @@
 ---
 layout : post
-title : "Jeudi 17 Novembre 2016 : double lancement pour l’ESA"
+title : "Jeudi 17 Novembre 2016 : double décollage pour l’ESA"
 date : 2016-11-17
 image : 17Nov2016/ProximaAnnouncement.jpg
 comments : true
