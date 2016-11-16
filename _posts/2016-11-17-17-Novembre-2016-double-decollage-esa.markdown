@@ -68,7 +68,7 @@ comments : true
 
 #### Pour aller plus loin : 
 * Le blog de Thomas Pesquet, alimenté tout au long de la mission Proxima : <a href="http://blogs.esa.int/thomas-pesquet/fr/">http://blogs.esa.int/thomas-pesquet/fr/</a>
-* Replay du documentaire sur Thomas Pesquet, et sur le métier d'astronaute en général : <a href="http://www.tv-replay.fr/15-11-16/thomas-pesquet-profession-astronaute-arte-12015350.html">http://www.tv-replay.fr/15-11-16/thomas-pesquet-profession-astronaute-arte-12015350.html</a>
+* Replay du documentaire d'Arte sur Thomas Pesquet, et sur le métier d'astronaute en général : <a href="http://www.tv-replay.fr/15-11-16/thomas-pesquet-profession-astronaute-arte-12015350.html">http://www.tv-replay.fr/15-11-16/thomas-pesquet-profession-astronaute-arte-12015350.html</a>
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
