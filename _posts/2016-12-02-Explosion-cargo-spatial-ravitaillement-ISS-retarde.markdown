@@ -58,7 +58,7 @@ comments : true
 * <a href="http://www.lepoint.fr/astronomie/un-vaisseau-cargo-cense-ravitailler-l-iss-a-disparu-des-radars-01-12-2016-2087279_1925.php">http://www.lepoint.fr/astronomie/un-vaisseau-cargo-cense-ravitailler-l-iss-a-disparu-des-radars-01-12-2016-2087279_1925.php</a>
 * <a href="http://www.theverge.com/2016/12/1/13806300/russia-roscosmos-spacecraft-international-space-station-mission">http://www.theverge.com/2016/12/1/13806300/russia-roscosmos-spacecraft-international-space-station-mission</a>
 
-* Image de couverture : Cargo de ravitaillement Progress en approche de l'ISS le 7 février 2008. crédit : <a href"https://images.nasa.gov/#/details-iss016e027742.html">NASA</a>
+* Image de couverture : Cargo de ravitaillement Progress en approche de l'ISS le 7 février 2008. crédit : NASA
 
 {% if page.comments %}
 <div id="disqus_thread"></div>
