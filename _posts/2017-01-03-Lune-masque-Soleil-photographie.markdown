@@ -31,7 +31,7 @@ comments : true
 
 <figure>
 	<img src="{{ '/assets/img/Photographie/EWhite.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>Photographie de l'astronaute E. White, premier américain, et second homme, à effectuer une sortie extra-véhiculaire, lors de cette sortie le 3 Juin 1965. Crédit :  <a href="https://images.nasa.gov/#/details-s65-30429.html">NASA</a></figcaption>
+	<figcaption>Photographie de l'astronaute E. White, premier américain, et second homme, à effectuer une sortie extra-véhiculaire, lors de cette sortie le 3 juin 1965. Crédit :  <a href="https://images.nasa.gov/#/details-s65-30429.html">NASA</a></figcaption>
 </figure>
 
 
