@@ -32,7 +32,7 @@ comments : true
 
 <figure>
 	<img src="{{ '/assets/img/TwinStudy/Discovery.jpg' | prepend: site.baseurl }}" alt=""> 
-	<figcaption>La navette Discovery lors du décollage. Lorsque Paul Langevin propose l'image de ses deux jumeaux, le concept de voyage spatial n'est que pure science fiction. Crédit : NASA</figcaption>
+	<figcaption>La navette Discovery sur son pas de tir. Lorsque Paul Langevin propose l'image de ses deux jumeaux, le concept de voyage spatial n'est que pure science fiction. Crédit : NASA</figcaption>
 </figure>
 
 <p style="text-align: justify;">Le paradoxe apparaît lorsque l’on change de référentiel. On peut en effet se mettre à la place du jumeau dans la fusée. On peut alors considérer qu’il est immobile et que c’est son frère (et la Terre) qui voyage à une grande vitesse. Et ainsi, à la fin du voyage, le frère resté sur Terre est censé être le plus jeune. Les deux frères sont donc plus jeunes l’un que l’autre, suivant le point de vue adopté. Lorsqu’en 1911, Langevin expose l’idée des jumeaux, il ne le présente pas comme un paradoxe et se limite à la première partie. On parle aujourd’hui du paradoxe des jumeaux de Langevin.</p>
