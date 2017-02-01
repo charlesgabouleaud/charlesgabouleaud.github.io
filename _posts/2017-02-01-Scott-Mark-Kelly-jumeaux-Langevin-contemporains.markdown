@@ -52,7 +52,7 @@ comments : true
 <p style="text-align: justify;">Évidemment, aucune agence spatiale ne souhaitait envoyer un jumeau dans l’espace et en garder un au sol pour le simple plaisir de recréer l’expérience de pensée de Langevin. L’intérêt aurait plutôt été de pouvoir mener différentes expériences de façon à mettre en évidence l’influence des vols spatiaux sur l’homme. Le patrimoine génétique de jumeaux étant identique, cela permettrait d’effectuer de nombreuses expériences mettant en évidence des conséquences des séjours spatiaux inconnues jusqu’alors. Mais le problème, c’est que si un des jumeau devient astronaute, rien ne garantit que son frère sera d’accord pour qu’il devienne lui aussi un sujet d’expérience… L’idéal serait donc que deux jumeaux deviennent astronautes (ou cosmonautes, taïkonautes, spationautes, ou autre; en bref : qu’ils deviennent voyageurs spatiaux). Ainsi, étant tous les deux membres d’une agence spatiale, les deux frères jumeaux indiquent tacitement qu’ils sont prêts à devenir des sujets d’expérience. Cependant, cela implique que deux frères jumeaux souhaitent devenir astronautes, et que les deux soient acceptés. Une situation assez peu probable.</p>
 
 <figure>
-	<img src="{{ '/assets/img/TwinStudy/kellys.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/TwinStudy/Kellys.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>En 1996, la Nasa recrute deux jumeaux comme astronautes : Scott et Mark Kelly. Crédit : NASA/Bill Ingalls</figcaption>
 </figure>
 
