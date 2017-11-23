@@ -76,9 +76,9 @@ comments : true
 
 ##### Remerciements
 
-*L’idée de cet article remonte à longtemps. Les premières bribes remontent à Mai, avec des informations récoltées lors de l’édition de Pint of Science 2017. Merci donc à <a href="https://pintofscience.fr/">Pint of Science</a> pour l’organisation de ces soirées.
-*D’autres informations remontent au Salon du Bourget 2017, où j’ai été invité par l’ESA en tant que Social Media User. Les différentes conférences auxquelles j’ai pu assister dans ce cadre ont grandement participé à l’élaboration de cet article. Merci donc à l’ESA !
-*Enfin, je ne peux que vous inviter à aller sur le blog From Earth To Space, et notamment cet article sur l’avortement récent du tir d’Ariane, et je remercie aussi son auteur pour l’aide apportée pour cet article. <a href="http://fetspace.blogspot.fr/2017/09/ariane-5-in-extremis.html">http://fetspace.blogspot.fr/2017/09/ariane-5-in-extremis.html</a>
+* L’idée de cet article remonte à longtemps. Les premières bribes remontent à Mai, avec des informations récoltées lors de l’édition de Pint of Science 2017. Merci donc à <a href="https://pintofscience.fr/">Pint of Science</a> pour l’organisation de ces soirées.
+* D’autres informations remontent au Salon du Bourget 2017, où j’ai été invité par l’ESA en tant que Social Media User. Les différentes conférences auxquelles j’ai pu assister dans ce cadre ont grandement participé à l’élaboration de cet article. Merci donc à l’ESA !
+* Enfin, je ne peux que vous inviter à aller sur le blog From Earth To Space, et notamment cet article sur l’avortement récent du tir d’Ariane, et je remercie aussi son auteur pour l’aide apportée pour cet article. <a href="http://fetspace.blogspot.fr/2017/09/ariane-5-in-extremis.html">http://fetspace.blogspot.fr/2017/09/ariane-5-in-extremis.html</a>
 
 
 {% if page.comments %}
