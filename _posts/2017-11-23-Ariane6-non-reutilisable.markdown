@@ -20,7 +20,7 @@ comments : true
 <p style="text-align: justify;">En 2002, Elon Musk, que l’on ne présente plus, crée une société privée visant à révolutionner le secteur spatial. L’objectif final est de relancer au maximum l’essor du domaine, et pour cela, il compte réduire drastiquement les coûts de lancement. A l’époque déjà, il pense au voyage vers Mars, qui ne sera possible qu’en diminuant les coûts et relançant l’intérêt du grand public pour l’exploration spatiale. Et pour diminuer les coûts, Elon Musk annonce le développement de lanceurs dont le premier étage sera réutilisable.</p>
 
 <figure>
-	<img src="{{ '/assets/img/Ariane6/FirstStaleLanding.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/Ariane6/FirstStageLanding.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Atterrissage sur une barge autonome du premier étage de la fusée Falcon 9 utilisée pour Iridium 1. Crédit : SpaceX</figcaption>
 </figure>
 
