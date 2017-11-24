@@ -37,7 +37,7 @@ comments : true
 <p style="text-align: justify;">D’autant plus que Space X a fait un choix assez déterminant : le moteur Merlin. Contrairement à Ariane 5 et son moteur Vulcain (et ses deux boosters), les Falcon 9 sont équipées de 9 moteurs Merlin pour le premier étage, et d’un moteur Merlin pour le 2ème étage. Space X utilise un seul type de moteur sur son lanceur, en plusieurs exemplaires (et plusieurs versions, celle du 2ème étage étant adaptée au fonctionnement dans le vide, mais reste assez proche de celui du 1er étage). L’avantage, c’est que les moteurs sont pratiquement fabriqués en série, réduisant fortement leur coût de production. Sauf que les premiers étages sont réutilisables plusieurs fois, et donc lorsqu’une fusée est réutilisée, elle ne nécessite pas de nouveau moteurs puisqu’eux aussi sont réutilisés. Les fusées étant réutilisées plusieurs fois mais probablement pas indéfiniment, il faut que Space X assure un très grand nombre de lancement par an pour maintenir une cadence élevée de production de moteurs. A moins que la société ne vende ses moteurs à d’autres fabricants, étant donné que Space X fabrique elle-même ses moteurs.</p>
 
 <figure>
-	<img src="{{ '/assets/img/Ariane6/FirstStaleMerlins.jpg' | prepend: site.baseurl }}" alt=""> 
+	<img src="{{ '/assets/img/Ariane6/FirstStageMerlins.jpg' | prepend: site.baseurl }}" alt=""> 
 	<figcaption>Photographie d'un premier étage de Falcon 9, sur laquelle on voit bien les 9 moteurs Merlin. Crédit : SpaceX</figcaption>
 </figure>
 
