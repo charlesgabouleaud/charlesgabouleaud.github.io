@@ -8,6 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">E</span>ntre ceux qui jouaient à Pokémon Go et ceux qui attendaient impatiemment les premières épreuves des JO à la télévision, certains sont peut-être passés à côté d’une information de première importance en matière d’exploration spatiale. Mais cela soulève aussi quelques questions primordiales au niveau de la politique liée à l’espace.</p>
 
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/">https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/</a>
+
 ### Une exploitation des ressources lunaires autorisée
 
 <p style="text-align: justify;">La nouvelle commence à se répandre : la Federal Aviation Agency (FAA), l’agence gouvernementale américaine chargée de la régulation aérienne, a autorisé une entreprise privée à exploiter les ressources de la lune dans un but commercial. Cette décision est particulièrement importante dans le domaine spatial : jusqu’alors, seules les agences gouvernementales, comme la NASA (National Aeronautics and Space Administration) ou l’ESA (European Space Agency) étaient autorisées à sortir de l’orbite terrestre. Désormais, MoonExpress est autorisée à poser un module sur la Lune.</p>
