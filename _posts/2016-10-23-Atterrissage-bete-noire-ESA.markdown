@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">M</span>ercredi 19 Octobre 2016, l’agence spatiale européenne (ESA) diffusait en direct l’atterrissage de sa sonde Schiaparelli sur Mars. Il était possible de suivre ce qu’il se passait au centre européen d'opérations spatiales (ESOC). Mais tout ne s’est pas déroulé comme prévu et Vendredi 21 Octobre, l’ESA annonçait que Schiaparelli n’avait pas survécu à la manœuvre. Cependant, il convient de voir ce que cet échec peut apporter pour le futur.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/10/23/latterrissage-la-bete-noire-de-lesa/">https://lespaceentrelesmots.com/2016/10/23/latterrissage-la-bete-noire-de-lesa/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/10/23/latterrissage-la-bete-noire-de-lesa/">https://lespaceentrelesmots.com/2016/10/23/latterrissage-la-bete-noire-de-lesa/</a> </p>
+
 
 ### ExoMars : une coopération scientifique entre l’Europe et la Russie
 
