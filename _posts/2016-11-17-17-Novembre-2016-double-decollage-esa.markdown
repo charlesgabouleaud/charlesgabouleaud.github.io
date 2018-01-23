@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">A</span>ujourd’hui, l’agence spatiale européenne vit une journée un peu particulière, puisqu’elle est au centre de deux lancements de fusées. Au cœur de l’actualité des derniers jours, Thomas Pesquet s’envolera depuis Baikonour en Russie, vers l’ISS, avec deux autres astronautes. En début d’après-midi, depuis la base de Kourou, en Guyane française, une fusée Ariane 5 décollera avec à son bord 4 satellites Galileo qui rejoindront la constellation de satellites déjà en place. Les deux évènements seront retransmis en live.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/11/17/jeudi-17-novembre-2016-double-decollage-pour-lesa/">https://lespaceentrelesmots.com/2016/11/17/jeudi-17-novembre-2016-double-decollage-pour-lesa/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/11/17/jeudi-17-novembre-2016-double-decollage-pour-lesa/">https://lespaceentrelesmots.com/2016/11/17/jeudi-17-novembre-2016-double-decollage-pour-lesa/</a> </p>
+
 
 ### Un dixième français dans l’espace
 
