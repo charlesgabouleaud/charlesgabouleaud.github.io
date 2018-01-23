@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">I</span>ls sont des milliers à orbiter autour de la Terre, et nous les utilisons tous les jours. Pourtant, nous n’avons que très peu conscience de leur utilité. Les satellites sont pourtant omniprésents dans notre quotidien, et il serait très compliqué de s’en passer.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/03/26/communication-meteo-geolocalisation-la-discrete-omnipresence-des-satellites/">https://lespaceentrelesmots.com/2017/03/26/communication-meteo-geolocalisation-la-discrete-omnipresence-des-satellites/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/03/26/communication-meteo-geolocalisation-la-discrete-omnipresence-des-satellites/">https://lespaceentrelesmots.com/2017/03/26/communication-meteo-geolocalisation-la-discrete-omnipresence-des-satellites/</a> </p>
+
 
 ### Un nombre de satellites très difficile à estimer
 
