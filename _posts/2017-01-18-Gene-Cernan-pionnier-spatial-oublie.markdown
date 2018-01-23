@@ -8,8 +8,9 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>e troisième lundi de janvier a été surnommé en 2005, lors d’une campagne publicitaire, « Blue Monday », jour le plus déprimant de l’année. Cette année, le 16 janvier 2017, le domaine spatial a dû percevoir cet état d’esprit, avec la mort d’Eugene Cernan, dernier homme à avoir foulé le sol lunaire, et dont le nom est pourtant inconnu du grand public.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/18/gene-cernan-pionnier-spatial-oublie/">https://lespaceentrelesmots.com/2017/01/18/gene-cernan-pionnier-spatial-oublie/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/18/gene-cernan-pionnier-spatial-oublie/">https://lespaceentrelesmots.com/2017/01/18/gene-cernan-pionnier-spatial-oublie/</a> </p>
 
+ 
 ### Apollo : et la conquête de nouveaux mondes reprend… temporairement.
 
 <p style="text-align: justify;"><em>The Eagle has landed.</em> Le 20 juillet 1969, à 20h17 GMT, le module lunaire <em>Eagle</em> de la mission Apollo 11 se pose sur la Lune, et Neil Armstrong prononce cette phrase, indiquant à Houston que l’homme s’est effectivement posé sur la Lune. Quelques minutes plus tard, Neil Armstrong foulera le sol du satellite, et prononcera une phrase encore plus fameuse (bien que mal retranscrite). La nouvelle fait le tour du monde. Après avoir été second dans la course à l’espace, les Etats-Unis devance enfin l’URSS. Et d’une telle façon que jamais les soviétiques ne tenteront de renouveler l’exploit, et se concentreront alors sur les stations orbitales habitées.</p>
