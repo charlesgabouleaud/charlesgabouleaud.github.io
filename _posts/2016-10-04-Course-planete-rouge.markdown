@@ -8,6 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">D</span>eux programmes spatiaux vont être menés en parallèle pour amener l’homme sur Mars. L’un sera piloté par la NASA alors que le second est l’idée d’Elon Musk. Les échéances et les objectifs sont complètement différents, mais ces deux projets pourraient modifier notre approche de l’exploration spatiale. Cet article se focalise surtout sur le programme <em>Journey to Mars</em> de la NASA. Celui d’Elon Musk sera traité dans un prochain article.</p>
 
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/10/04/la-course-a-la-planete-rouge/">https://lespaceentrelesmots.com/2016/10/04/la-course-a-la-planete-rouge/</a>
+
 ### Le nouvel objectif de la NASA pour 2040
 
 <p style="text-align: justify;">La NASA, l’agence spatiale américaine, est une agence gouvernementale dont le budget est directement alloué par le Congrès. Et ce budget est généralement décidé en vue d’un objectif. Un des objectifs notables de ces dernières années était une mission de détournement d’astéroïde, dont le projet est toujours à l’étude. A l’approche des futures élections américaines, le Sénat s’est réuni de façon à définir une ligne de conduite pour la NASA, indépendante des prochains résultats. Les projets spatiaux étant particulièrement coûteux et longs à mettre en place, il est indispensable de les décorréler des changements politiques.</p>
