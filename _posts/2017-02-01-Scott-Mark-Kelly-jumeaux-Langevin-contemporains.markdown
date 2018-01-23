@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">E</span>n 1911, voulant vulgariser la récente théorie de la relativité restreinte, Paul Langevin imagine deux jumeaux, un sur Terre et un faisant un aller-retour en fusée à une vitesse proche de celle de la lumière. A son retour sur Terre, les jumeaux n’ont plus le même âge. En 2015, l’astronaute Scott Kelly s’envole pour une mission d’un an sur l’ISS. Son frère jumeau, Mark, astronaute lui aussi reste au sol. Des conditions d’études inédites pour la NASA, et un clin d'oeil à Paul Langevin.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/02/01/scott-et-mark-kelly-les-jumeaux-de-langevin-contemporains/">https://lespaceentrelesmots.com/2017/02/01/scott-et-mark-kelly-les-jumeaux-de-langevin-contemporains/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/02/01/scott-et-mark-kelly-les-jumeaux-de-langevin-contemporains/">https://lespaceentrelesmots.com/2017/02/01/scott-et-mark-kelly-les-jumeaux-de-langevin-contemporains/</a> </p>
+
 
 ### Relativité restreinte et bouleversements du monde des physiciens
 
