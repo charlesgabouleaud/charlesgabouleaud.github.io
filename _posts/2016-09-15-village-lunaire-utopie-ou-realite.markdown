@@ -8,6 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>e 11 Juin 2016, j’ai eu la chance d’assister au TEDxPantheonSorbonne. Parmi les interlocuteurs, Claudie Haigneré, première française à aller dans l’espace, ancienne astronaute devenue conseillère auprès du directeur de l’ESA. Elle était là pour parler d’un projet : celui de construire un village sur la Lune. Un projet qui peut sembler complètement fou, mais qui ne l'est pas tant que cela.</p>
 
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/">https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/</a>
+
 ### Un intérêt constant pour un astre unique
 
 <p style="text-align: justify;">La Lune n’a cessé de fasciner des générations d’êtres humains. Même sans être particulièrement curieux, tout le monde s’est déjà interrogé sur la nature de ce disque lumineux qui apparaît la nuit et dont la forme change. Les civilisations ont généralement attribué un caractère divin au satellite, des étrusques aux inuits en passant par les aborigènes et les grecs. Il a ensuite été globalement admis qu’aucune divinité ne se cachait derrière la Lune. Et enfin, comme avec tout ce qu’il l’entoure, l’homme à chercher à connaître l’astre, à le comprendre. Il faut dire qu’il n’est pas si banal que cela : il s’agit de l’unique satellite naturel de la Terre. Dans notre système solaire, Jupiter possède 67 satellites confirmés, Mars en possède 2, Mercure et Vénus n’en possèdent pas, et la Terre est la seule planète à n’avoir qu’un seul satellite naturel. Et l’unicité attise la curiosité.</p>
