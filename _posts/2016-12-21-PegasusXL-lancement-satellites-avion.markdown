@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>e 15 Décembre 2016, la NASA a procédé au lancement d’une constellation de huit satellites destinée à améliorer notre connaissance des ouragans. La particularité de ce lancement : la fusée n’est pas partie du sol, mais d’un avion volant à une altitude de 39000 pieds (environ 12km). Cette fusée est beaucoup plus petite que les lanceurs habituellement utilisés, et pourrait modifier l’approche qu’ont les agences spatiales des mises en orbite de satellites.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/21/pegasus-xl-lancement-de-satellites-depuis-un-avion/">https://lespaceentrelesmots.com/2016/12/21/pegasus-xl-lancement-de-satellites-depuis-un-avion/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/21/pegasus-xl-lancement-de-satellites-depuis-un-avion/">https://lespaceentrelesmots.com/2016/12/21/pegasus-xl-lancement-de-satellites-depuis-un-avion/</a> </p>
+
 
 ### La propulsion chimique au maximum de ses capacités
 
