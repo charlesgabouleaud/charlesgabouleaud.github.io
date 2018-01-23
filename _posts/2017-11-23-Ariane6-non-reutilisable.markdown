@@ -8,6 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">P</span>lus de 20 ans après le premier lancement, Ariane 5 possède un historique remarquable, avec un nombre de réussites successives remarquable. Mais les technologies, les besoins et les politiques changent : en 2020, le successeur d’Ariane 5 prendra le relais. Si Ariane 5 devrait continuer d’être lancée jusqu’en 2023, Ariane 6 arrivera alors sur le marché. ArianeGroup n’a pourtant pas fait le choix d’un lanceur réutilisable, alors que cela semble être l’avenir du domaine.</p>
 
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/11/23/ariane-6-le-prochain-lanceur-europeen-ne-sera-pas-reutilisable/">https://lespaceentrelesmots.com/2017/11/23/ariane-6-le-prochain-lanceur-europeen-ne-sera-pas-reutilisable/</a>
+
 ### Le long développement des lanceurs
 <p style="text-align: justify;">En matière de développement, les lanceurs spatiaux font partie des éléments les plus complexes, parce qu’ils doivent être efficaces, compétitifs, et être utilisables longtemps. Dans le cas d’Ariane 5 par exemple, le programme a officiellement été lancé en 1987, même si les réflexions avaient déjà débuté auparavant. Il aura donc fallu un peu moins de 10 ans entre l’initialisation du programme et le premier lancement en 1996. Dix ans de conception pour aboutir à un lanceur utilisé pendant près de 25 ans. En démarrant les premières études sur un futur lanceur, il faut prévoir les évolutions du marché du domaine spatial jusqu’à près de 40 ans dans le futur.</p>
 
