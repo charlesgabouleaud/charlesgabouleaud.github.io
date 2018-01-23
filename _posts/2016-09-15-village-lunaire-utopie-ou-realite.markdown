@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>e 11 Juin 2016, j’ai eu la chance d’assister au TEDxPantheonSorbonne. Parmi les interlocuteurs, Claudie Haigneré, première française à aller dans l’espace, ancienne astronaute devenue conseillère auprès du directeur de l’ESA. Elle était là pour parler d’un projet : celui de construire un village sur la Lune. Un projet qui peut sembler complètement fou, mais qui ne l'est pas tant que cela.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/">https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/">https://lespaceentrelesmots.com/2016/09/15/un-village-lunaire-utopie-ou-reel-projet/</a> </p>
+
 
 ### Un intérêt constant pour un astre unique
 
