@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">F</span>in Octobre 2016, la NASA annonçait que le dernier panneau de protection solaire de son télescope James Webb. Ce télescope devrait être lancé en 2018, et devrait permettre d’étendre notre connaissance de l’espace. Il est souvent comparé avec le télescope Hubble, probablement le mieux connu des télescopes spatiaux, qui devrait fonctionner jusqu’à la fin de la décennie.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/11/13/james-webb-le-futur-de-lobservation-spatiale/">https://lespaceentrelesmots.com/2016/11/13/james-webb-le-futur-de-lobservation-spatiale/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/11/13/james-webb-le-futur-de-lobservation-spatiale/">https://lespaceentrelesmots.com/2016/11/13/james-webb-le-futur-de-lobservation-spatiale/</a> </p>
+
 
 ### L’œil comme premier instrument d’observation
 
