@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>’année 2016 appartient désormais au passé. Elle a été marquée par de nombreuses avancées, dans le domaine spatial : découverte d’une exoplanète dans la zone habitable de l’étoile la plus proche de notre soleil, autorisation de la première société privée à exploiter les ressources spatiales, annonce d’un voyage vers Mars comme objectif officiel de la NASA, etc. Il faut maintenant espérer que 2017 apporte au moins autant de bonnes nouvelles spatiales. Et en 2016, la NASA a aussi publié une photo de notre planète qui devrait rester longtemps dans les annales. Cette photo, prise par la caméra EPIC, montre la Lune passer devant la Terre.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/03/et-la-lune-masque-le-soleil-pour-une-photographie-somptueuse/">https://lespaceentrelesmots.com/2017/01/03/et-la-lune-masque-le-soleil-pour-une-photographie-somptueuse/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/03/et-la-lune-masque-le-soleil-pour-une-photographie-somptueuse/">https://lespaceentrelesmots.com/2017/01/03/et-la-lune-masque-le-soleil-pour-une-photographie-somptueuse/</a> </p>
+
 
 ### Un premier cliché de la Terre vu depuis l’espace il y a 70 ans
 
