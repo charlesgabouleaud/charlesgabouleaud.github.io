@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">C</span>haque mois, le troisième mardi, le CNES organise les mardis de l’espace, où des spécialistes viennent discuter d’un thème en lien avec l’espace. Mardi 17 janvier, Michel Tognini, ancien astronaute français, François Spiero, responsable des vols habités au CNES, et Frank Leho, médecin à bord des vols zéroG, discutaient des impacts des vols spatiaux sur le corps humain. Et force est de constater que le corps humain n’est pas adapté à l’espace. Gonflement de la tête, déformation des yeux, diminution de la masse osseuse : nombreuses sont les conséquences de la vie en microgravité.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/26/lespace-et-ses-consequences-sur-le-corps-humain/">https://lespaceentrelesmots.com/2017/01/26/lespace-et-ses-consequences-sur-le-corps-humain/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/01/26/lespace-et-ses-consequences-sur-le-corps-humain/">https://lespaceentrelesmots.com/2017/01/26/lespace-et-ses-consequences-sur-le-corps-humain/</a> </p>
+
 
 ### Des conséquences sans gravité
 
