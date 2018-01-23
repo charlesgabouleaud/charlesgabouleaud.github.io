@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">F</span>in Septembre, lors du 67ème Congrès International d’Aéronautique, Elon Musk, le PDG de SpaceX, a présenté son projet d’expédition vers Mars. Son objectif est simple : envoyer des hommes sur Mars en 2024. Et son ambition est très claire, l’homme doit à terme coloniser Mars. Un projet qui fait rêver, mais qui reste techniquement complexe.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/10/07/spacex-et-si-mars-etait-rapidement-atteignable/">https://lespaceentrelesmots.com/2016/10/07/spacex-et-si-mars-etait-rapidement-atteignable/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/10/07/spacex-et-si-mars-etait-rapidement-atteignable/">https://lespaceentrelesmots.com/2016/10/07/spacex-et-si-mars-etait-rapidement-atteignable/</a> </p>
+
 
 ### Elon Musk : le visionnaire derrière SpaceX
 
