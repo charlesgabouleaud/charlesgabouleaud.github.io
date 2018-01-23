@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>e 8 Décembre 2016, la NASA ouvrait un compte sur la plateforme Giphy, pour mettre à disposition des internautes différents GIFs et images. Les agences spatiales mettent actuellement l’accent sur une amélioration de leur communication vis-à-vis du grand public, pour toucher le plus grand nombre de personnes.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/11/nouvelles-methodes-de-communication-des-agences-spatiales/">https://lespaceentrelesmots.com/2016/12/11/nouvelles-methodes-de-communication-des-agences-spatiales/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/11/nouvelles-methodes-de-communication-des-agences-spatiales/">https://lespaceentrelesmots.com/2016/12/11/nouvelles-methodes-de-communication-des-agences-spatiales/</a> </p>
+
 
 ### Des débuts sur un air de compétition
 
