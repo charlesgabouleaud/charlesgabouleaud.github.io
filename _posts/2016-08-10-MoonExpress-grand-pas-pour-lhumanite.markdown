@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">E</span>ntre ceux qui jouaient à Pokémon Go et ceux qui attendaient impatiemment les premières épreuves des JO à la télévision, certains sont peut-être passés à côté d’une information de première importance en matière d’exploration spatiale. Mais cela soulève aussi quelques questions primordiales au niveau de la politique liée à l’espace.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/">https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/">https://lespaceentrelesmots.com/2016/08/10/moonexpress-grand-pas-humanite/</a> </p>
+
 
 ### Une exploitation des ressources lunaires autorisée
 
