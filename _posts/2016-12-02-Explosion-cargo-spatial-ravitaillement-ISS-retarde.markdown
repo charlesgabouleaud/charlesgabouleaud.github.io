@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">J</span>eudi 1er Décembre, l’agence spatiale russe, Roscosmos, a effectué le lancement d’un cargo de ravitaillement vers la station spatiale internationale. Cependant, quelques minutes après le décollage, le contact a été rompu : le cargo s’est consumé dans l’atmosphère. Un incident moins rare que ce que l’on pourrait penser, qui rappelle l’incroyable complexité du projet de station spatiale.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/02/explosion-dun-cargo-spatial-le-ravitaillement-de-liss-retarde/">https://lespaceentrelesmots.com/2016/12/02/explosion-dun-cargo-spatial-le-ravitaillement-de-liss-retarde/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/12/02/explosion-dun-cargo-spatial-le-ravitaillement-de-liss-retarde/">https://lespaceentrelesmots.com/2016/12/02/explosion-dun-cargo-spatial-le-ravitaillement-de-liss-retarde/</a> </p>
+
 
 ### Une suite perpétuelle de sauts vers l’inconnu
 
