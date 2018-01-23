@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">M</span>ercredi 22 Février, la NASA annonçait en grande pompe la découverte de 7 exoplanètes autour de l’étoile naine Trappist-1. Cette découverte est extrêmement intéressante, et soulève de très nombreuses questions. Mais la presse mondiale s’est emparée de la nouvelle et, lors de sa transmission au grand public, s’est permis quelques raccourcis plus ou moins importants, donnant lieu au mieux à quelques imprécisions, au pire à une mauvaise interprétation de l’annonce.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/02/27/trappist-1-et-les-mauvaises-interpretations-de-lannonce-de-la-nasa/">https://lespaceentrelesmots.com/2017/02/27/trappist-1-et-les-mauvaises-interpretations-de-lannonce-de-la-nasa/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/02/27/trappist-1-et-les-mauvaises-interpretations-de-lannonce-de-la-nasa/">https://lespaceentrelesmots.com/2017/02/27/trappist-1-et-les-mauvaises-interpretations-de-lannonce-de-la-nasa/</a> </p>
+
 
 ### La NASA va annoncer la découverte de la vie extra-terrestre
 
