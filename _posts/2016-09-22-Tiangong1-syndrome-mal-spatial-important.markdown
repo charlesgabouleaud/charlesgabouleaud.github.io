@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">D</span>e très nombreux médias occidentaux ont relayé l’information : la station spatiale chinoise Tiangong-1 serait hors de contrôle et s’écrasera sur Terre de façon imprévisible. Un tel scénario avait été intuité dès juillet, mais a été confirmé il y a une semaine, après le succès du lancement de la station Tiangong-2. Cette perte de contrôle amène à s’interroger à nouveau sur le problème des débris spatiaux.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/22/tiangong-1-syndrome-dun-mal-spatial-plus-important/">https://lespaceentrelesmots.com/2016/09/22/tiangong-1-syndrome-dun-mal-spatial-plus-important/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/22/tiangong-1-syndrome-dun-mal-spatial-plus-important/">https://lespaceentrelesmots.com/2016/09/22/tiangong-1-syndrome-dun-mal-spatial-plus-important/</a> </p>
+
 
 ### Programme spatial : la Chine en autarcie
 
