@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">F</span>in Septembre, la sonde Rosetta ira rejoindre son atterrisseur Philae sur la comète Tchouri. Cela marquera la fin de la mission de l’agence spatiale européenne (ESA). Les péripéties de cette mission ont été relayées, depuis 2014, mais le projet est bien plus vieux. Les résultats de la mission ont permis une bien meilleure compréhension des corps célestes.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/12/rosetta-le-terme-dun-projet-vieux-de-30-ans/">https://lespaceentrelesmots.com/2016/09/12/rosetta-le-terme-dun-projet-vieux-de-30-ans/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2016/09/12/rosetta-le-terme-dun-projet-vieux-de-30-ans/">https://lespaceentrelesmots.com/2016/09/12/rosetta-le-terme-dun-projet-vieux-de-30-ans/</a> </p>
+
 
 ### La concrétisation d’un projet au cheminement difficile
 
