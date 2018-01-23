@@ -8,7 +8,8 @@ comments : true
 
 <p class="intro" style="text-align: justify;"><span class="dropcap">L</span>a Terre est une sphère rocheuse, qui se balade gentiment dans l’immensité de l’espace. Enfin, une sphère… Presque. Légèrement déformée, parcourue de montagnes, de failles sous-marines, la Terre n’est pas une sphère parfaite. Mais est-on loin d’une sphère parfaite ? Eh bien, on n’en est vraiment pas loin.</p>
 
-<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/05/27/une-terre-spherique-mais-a-quel-point/">https://lespaceentrelesmots.com/2017/05/27/une-terre-spherique-mais-a-quel-point/</a>
+<p style="text-align: justify;"> Retrouvez cet article sur la nouvelle version de mon blog, L'espace entre les mots, directement à cette adresse : <a href="https://lespaceentrelesmots.com/2017/05/27/une-terre-spherique-mais-a-quel-point/">https://lespaceentrelesmots.com/2017/05/27/une-terre-spherique-mais-a-quel-point/</a> </p>
+
 
 ### Par gravité, le corps devient sphérique
 
